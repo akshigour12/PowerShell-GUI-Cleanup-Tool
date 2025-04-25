@@ -18,7 +18,7 @@ A beautifully crafted Windows Forms GUI tool written in PowerShell to help you c
 
 📸 GUI Preview
 ☀️ Light Mode
-![Light Mode](light%20Mode.png)
+![Light Mode](Light%20Mode.png)
 🌙 Dark Mode
 ![Dark Mode](Dark%20Mode.png)
 
