@@ -18,4 +18,4 @@ A beautifully crafted Windows Forms GUI tool written in PowerShell to help you c
 
 📸 GUI Preview
 ☀️ Light Mode
-![Light Mode](screenshots/light_mode.png)
+![Light Mode](screenshots/light Mode.png)
