@@ -18,4 +18,18 @@ A beautifully crafted Windows Forms GUI tool written in PowerShell to help you c
 
 📸 GUI Preview
 ☀️ Light Mode
-![Light Mode](screenshots/light Mode.png)
+![Light Mode](/screenshots/light Mode.png)
+🌙 Dark Mode
+![Dark Mode](/screenshots/Dark Mode.png)
+
+🚀 How to Run
+Clone the repo or download the script
+1. git clone https://github.com/yourusername/PowerShell-Cleanup-Tool.git
+2. Open PowerShell as Administrator
+3. Navigate to the script folder
+4. cd "C:\Path\To\PowerShell-Cleanup-Tool"
+(Optional) Temporarily bypass execution policy
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+5.Run the script
+.\CleanupTool.ps1
+
