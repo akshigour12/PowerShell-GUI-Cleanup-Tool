@@ -29,6 +29,7 @@ Clone the repo or download the script
 3. Navigate to the script folder
 4. cd "C:\Path\To\PowerShell-Cleanup-Tool"
 (Optional) Temporarily bypass execution policy
+
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 5. Run the script
 .\CleanupTool.ps1
