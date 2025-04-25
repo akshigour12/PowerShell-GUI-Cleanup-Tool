@@ -4,9 +4,9 @@ A beautifully crafted Windows Forms GUI tool written in PowerShell to help you c
 ✨ Features
 🧹 System Cleaner: Temp files, Prefetch, Recycle Bin, Downloads, Recent items
 
-🌐 Browser Cleaner: Chrome, Edge, Firefox (with fallback if not installed)
+🌐 Browser Cleaner: Chrome, Edge, Firefox 
 
-📁 Custom Path Cleanup: Add your own directory
+📁 Custom Path Cleanup: Add your directory
 
 🔄 Duplicate Detection: GUI prompt for each match — supports “Yes to All”
 
@@ -18,9 +18,9 @@ A beautifully crafted Windows Forms GUI tool written in PowerShell to help you c
 
 📸 GUI Preview
 ☀️ Light Mode
-![Light Mode](/screenshots/light Mode.png)
+![Light Mode](screenshots/Light%20Mode.png)
 🌙 Dark Mode
-![Dark Mode](/screenshots/Dark Mode.png)
+![Dark Mode](screenshots/Dark%20Mode.png)
 
 🚀 How to Run
 Clone the repo or download the script
@@ -30,6 +30,6 @@ Clone the repo or download the script
 4. cd "C:\Path\To\PowerShell-Cleanup-Tool"
 (Optional) Temporarily bypass execution policy
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-5.Run the script
+5. Run the script
 .\CleanupTool.ps1
 
